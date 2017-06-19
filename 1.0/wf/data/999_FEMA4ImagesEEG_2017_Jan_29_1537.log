@@ -1,0 +1,334 @@
+9.2744 	WARNING 	User requested fullscreen with size [1360  768], but screen is actually [2560, 1440]. Using actual size
+12.6555 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x186D5850>, name='window1', pos=[0, 0], screen=0, size=array([2560, 1440]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.6633 	EXP 	Created AMSA01.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA01.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA01.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.6691 	EXP 	Created AMSA02.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA02.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA02.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.6778 	EXP 	Created AMSA03.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA03.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA03.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.6836 	EXP 	Created AMSA04.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA04.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA04.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.6899 	EXP 	Created AMSA05.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA05.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA05.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.6960 	EXP 	Created AMSA06.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA06.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA06.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7077 	EXP 	Created AMSA07.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA07.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA07.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7135 	EXP 	Created AMSA08.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA08.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA08.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7234 	EXP 	Created AMSA09.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA09.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA09.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7312 	EXP 	Created AMSA10.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA10.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA10.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7372 	EXP 	Created AMSA11.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA11.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA11.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7459 	EXP 	Created AMSA12.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA12.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA12.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7522 	EXP 	Created AMSA13.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA13.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA13.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7582 	EXP 	Created AMSA14.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA14.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA14.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7684 	EXP 	Created AMSA15.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA15.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA15.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7750 	EXP 	Created AMSA16.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA16.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA16.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7811 	EXP 	Created AMSA17.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA17.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA17.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.7888 	EXP 	Created AMSA18.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA18.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA18.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8055 	EXP 	Created AMSA19.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA19.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA19.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8133 	EXP 	Created AMSA20.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMSA20.jpg', interpolate=True, mask=None, maskParams=None, name='AMSA20.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8189 	EXP 	Created AMNE01.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE01.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE01.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8256 	EXP 	Created AMNE02.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE02.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE02.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8338 	EXP 	Created AMNE03.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE03.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE03.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8396 	EXP 	Created AMNE04.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE04.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE04.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8455 	EXP 	Created AMNE05.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE05.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE05.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8548 	EXP 	Created AMNE06.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE06.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE06.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8613 	EXP 	Created AMNE07.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE07.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE07.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8679 	EXP 	Created AMNE08.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE08.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE08.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8742 	EXP 	Created AMNE09.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE09.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE09.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8803 	EXP 	Created AMNE10.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE10.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE10.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8862 	EXP 	Created AMNE11.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE11.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE11.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.8948 	EXP 	Created AMNE12.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE12.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE12.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9022 	EXP 	Created AMNE13.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE13.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE13.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9080 	EXP 	Created AMNE14.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE14.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE14.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9156 	EXP 	Created AMNE15.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE15.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE15.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9221 	EXP 	Created AMNE16.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE16.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE16.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9289 	EXP 	Created AMNE17.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE17.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE17.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9377 	EXP 	Created AMNE18.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE18.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE18.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9443 	EXP 	Created AMNE19.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE19.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE19.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9501 	EXP 	Created AMNE20.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AMNE20.jpg', interpolate=True, mask=None, maskParams=None, name='AMNE20.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9580 	EXP 	Created AFSA01.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA01.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA01.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9743 	EXP 	Created AFSA02.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA02.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA02.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9810 	EXP 	Created AFSA03.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA03.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA03.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9868 	EXP 	Created AFSA04.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA04.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA04.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+12.9934 	EXP 	Created AFSA05.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA05.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA05.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0030 	EXP 	Created AFSA06.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA06.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA06.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0092 	EXP 	Created AFSA07.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA07.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA07.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0152 	EXP 	Created AFSA08.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA08.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA08.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0228 	EXP 	Created AFSA09.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA09.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA09.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0289 	EXP 	Created AFSA10.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA10.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA10.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0345 	EXP 	Created AFSA11.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA11.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA11.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0435 	EXP 	Created AFSA12.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA12.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA12.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0511 	EXP 	Created AFSA13.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA13.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA13.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0578 	EXP 	Created AFSA14.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA14.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA14.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0668 	EXP 	Created AFSA15.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA15.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA15.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0726 	EXP 	Created AFSA16.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA16.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA16.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0788 	EXP 	Created AFSA17.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA17.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA17.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0868 	EXP 	Created AFSA18.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA18.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA18.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0926 	EXP 	Created AFSA19.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA19.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA19.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.0986 	EXP 	Created AFSA20.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFSA20.jpg', interpolate=True, mask=None, maskParams=None, name='AFSA20.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1084 	EXP 	Created AFNE01.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE01.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE01.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1145 	EXP 	Created AFNE02.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE02.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE02.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1205 	EXP 	Created AFNE03.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE03.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE03.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1296 	EXP 	Created AFNE04.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE04.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE04.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1353 	EXP 	Created AFNE05.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE05.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE05.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1416 	EXP 	Created AFNE06.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE06.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE06.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1517 	EXP 	Created AFNE07.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE07.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE07.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1575 	EXP 	Created AFNE08.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE08.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE08.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1647 	EXP 	Created AFNE09.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE09.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE09.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1741 	EXP 	Created AFNE10.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE10.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE10.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1799 	EXP 	Created AFNE11.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE11.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE11.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1858 	EXP 	Created AFNE12.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE12.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE12.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.1956 	EXP 	Created AFNE13.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE13.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE13.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2031 	EXP 	Created AFNE14.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE14.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE14.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2089 	EXP 	Created AFNE15.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE15.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE15.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2169 	EXP 	Created AFNE16.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE16.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE16.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2235 	EXP 	Created AFNE17.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE17.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE17.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2293 	EXP 	Created AFNE18.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE18.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE18.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2381 	EXP 	Created AFNE19.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE19.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE19.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2439 	EXP 	Created AFNE20.jpg = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='stim/AFNE20.jpg', interpolate=True, mask=None, maskParams=None, name='AFNE20.jpg', opacity=1.0, ori=0.0, pos=array([ 0. ,  3.2]), size=array([ 6.,  6.]), texRes=128, units='deg', win=Window(...))
+13.2440 	EXP 	window1: recordFrameIntervals = False
+13.4064 	EXP 	window1: recordFrameIntervals = True
+13.5886 	EXP 	window1: recordFrameIntervals = False
+13.9469 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1.5)
+13.9524 	EXP 	Created Number1 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=2, italic=False, name='Number1', opacity=1.0, ori=0, pos=array([ 0. ,  6.2]), rgb=array([ 255.,  255.,  255.]), text=u'1', units='deg', win=Window(...), wrapWidth=15.0)
+13.9557 	EXP 	Created Number2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=2, italic=False, name='Number2', opacity=1.0, ori=0, pos=array([ 6.2,  0. ]), rgb=array([ 255.,  255.,  255.]), text=u'2', units='deg', win=Window(...), wrapWidth=15.0)
+13.9589 	EXP 	Created Number3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=2, italic=False, name='Number3', opacity=1.0, ori=0, pos=array([ 0. , -6.2]), rgb=array([ 255.,  255.,  255.]), text=u'3', units='deg', win=Window(...), wrapWidth=15.0)
+13.9619 	EXP 	Created Number4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=2, italic=False, name='Number4', opacity=1.0, ori=0, pos=array([-6.2,  0. ]), rgb=array([ 255.,  255.,  255.]), text=u'4', units='deg', win=Window(...), wrapWidth=15.0)
+14.0062 	EXP 	Created Ready = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Ready', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1.5)
+14.0102 	EXP 	Created FixationPoint = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='FixationPoint', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.0334 	EXP 	Created Break = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Break', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1.5)
+14.0549 	EXP 	Instructions: autoDraw = True
+14.4392 	DATA 	Keypress: space
+14.4414 	EXP 	Imported FemalePracticeFile.csv as conditions, 10 conditions, 6 params
+14.4417 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+14.5360 	EXP 	New trial (rep=0, index=0): {'IPosition2': u'AMSA21.JPG', 'IPosition3': u'AMNE23.JPG', 'IPosition1': u'AMNE21.JPG', 'IPosition6': u'AMSA25.JPG', 'IPosition4': u'AMNE25.JPG', 'IPosition5': u'AMSA23.JPG'}
+14.5558 	EXP 	Instructions: autoDraw = False
+14.5558 	EXP 	FixationPoint: color = 'white (named)'
+14.5558 	EXP 	Number1: color = 'white (named)'
+14.5558 	EXP 	Number2: color = 'white (named)'
+14.5558 	EXP 	Number3: color = 'white (named)'
+14.5558 	EXP 	Number4: color = 'white (named)'
+14.5558 	EXP 	AFNE03.jpg: pos = array([ 0. ,  6.2])
+14.5558 	EXP 	AFSA05.jpg: pos = array([ 6.2,  0. ])
+14.5558 	EXP 	AFSA17.jpg: pos = array([ 0. , -6.2])
+14.5558 	EXP 	AFNE15.jpg: pos = array([-6.2,  0. ])
+14.5558 	EXP 	FixationPoint: autoDraw = True
+15.0557 	EXP 	AFNE03.jpg: autoDraw = True
+15.0557 	EXP 	AFSA05.jpg: autoDraw = True
+15.0557 	EXP 	AFSA17.jpg: autoDraw = True
+15.0557 	EXP 	AFNE15.jpg: autoDraw = True
+16.5574 	EXP 	AFNE03.jpg: autoDraw = False
+16.5574 	EXP 	AFSA05.jpg: autoDraw = False
+16.5574 	EXP 	AFSA17.jpg: autoDraw = False
+16.5574 	EXP 	AFNE15.jpg: autoDraw = False
+18.0587 	EXP 	Number1: autoDraw = True
+18.0587 	EXP 	Number2: autoDraw = True
+18.0587 	EXP 	Number3: autoDraw = True
+18.0587 	EXP 	Number4: autoDraw = True
+18.0587 	EXP 	AFNE03.jpg: pos = array([ 0.,  0.])
+18.0587 	EXP 	AFNE03.jpg: autoDraw = True
+20.9447 	DATA 	Keypress: 9
+22.9470 	EXP 	New trial (rep=0, index=1): {'IPosition2': u'AFSA21.JPG', 'IPosition3': u'AFNE22.JPG', 'IPosition1': u'AFNE21.JPG', 'IPosition6': u'AFSA23.JPG', 'IPosition4': u'AFSA22.JPG', 'IPosition5': u'AFNE23.JPG'}
+22.9628 	EXP 	FixationPoint: autoDraw = False
+22.9628 	EXP 	AFNE03.jpg: autoDraw = False
+22.9628 	EXP 	AFSA05.jpg: autoDraw = False
+22.9628 	EXP 	AFSA17.jpg: autoDraw = False
+22.9628 	EXP 	AFNE15.jpg: autoDraw = False
+22.9628 	EXP 	AFNE03.jpg: autoDraw = False
+22.9628 	EXP 	Number1: autoDraw = False
+22.9628 	EXP 	Number2: autoDraw = False
+22.9628 	EXP 	Number3: autoDraw = False
+22.9628 	EXP 	Number4: autoDraw = False
+22.9628 	EXP 	FixationPoint: color = 'white (named)'
+22.9628 	EXP 	Number1: color = 'white (named)'
+22.9628 	EXP 	Number2: color = 'white (named)'
+22.9628 	EXP 	Number3: color = 'white (named)'
+22.9628 	EXP 	Number4: color = 'white (named)'
+22.9628 	EXP 	AFNE08.jpg: pos = array([ 0. ,  6.2])
+22.9628 	EXP 	AFSA08.jpg: pos = array([ 6.2,  0. ])
+22.9628 	EXP 	AFSA19.jpg: pos = array([ 0. , -6.2])
+22.9628 	EXP 	AFNE05.jpg: pos = array([-6.2,  0. ])
+22.9628 	EXP 	FixationPoint: autoDraw = True
+23.4799 	EXP 	AFNE08.jpg: autoDraw = True
+23.4799 	EXP 	AFSA08.jpg: autoDraw = True
+23.4799 	EXP 	AFSA19.jpg: autoDraw = True
+23.4799 	EXP 	AFNE05.jpg: autoDraw = True
+24.0139 	DATA 	Keypress: 9
+25.1108 	EXP 	AFNE08.jpg: autoDraw = False
+25.1108 	EXP 	AFSA08.jpg: autoDraw = False
+25.1108 	EXP 	AFSA19.jpg: autoDraw = False
+25.1108 	EXP 	AFNE05.jpg: autoDraw = False
+26.3325 	DATA 	Keypress: 9
+26.4657 	EXP 	Number1: autoDraw = True
+26.4657 	EXP 	Number2: autoDraw = True
+26.4657 	EXP 	Number3: autoDraw = True
+26.4657 	EXP 	Number4: autoDraw = True
+26.4657 	EXP 	AFNE08.jpg: pos = array([ 0.,  0.])
+26.4657 	EXP 	AFNE08.jpg: autoDraw = True
+26.5994 	DATA 	Keypress: 9
+26.9496 	DATA 	Keypress: 9
+27.1512 	DATA 	Keypress: 9
+27.3834 	DATA 	Keypress: 9
+28.3790 	DATA 	Keypress: num_8
+28.3791 	DATA 	Keypress: num_9
+28.3799 	EXP 	New trial (rep=0, index=2): {'IPosition2': u'AMSA21.JPG', 'IPosition3': u'AMNE22.JPG', 'IPosition1': u'AMNE21.JPG', 'IPosition6': u'AMSA23.JPG', 'IPosition4': u'AMSA22.JPG', 'IPosition5': u'AMNE23.JPG'}
+28.5370 	EXP 	FixationPoint: autoDraw = False
+28.5370 	EXP 	AFNE08.jpg: autoDraw = False
+28.5370 	EXP 	AFSA08.jpg: autoDraw = False
+28.5370 	EXP 	AFSA19.jpg: autoDraw = False
+28.5370 	EXP 	AFNE05.jpg: autoDraw = False
+28.5370 	EXP 	AFNE08.jpg: autoDraw = False
+28.5370 	EXP 	Number1: autoDraw = False
+28.5370 	EXP 	Number2: autoDraw = False
+28.5370 	EXP 	Number3: autoDraw = False
+28.5370 	EXP 	Number4: autoDraw = False
+28.5370 	EXP 	FixationPoint: color = 'white (named)'
+28.5370 	EXP 	Number1: color = 'white (named)'
+28.5370 	EXP 	Number2: color = 'white (named)'
+28.5370 	EXP 	Number3: color = 'white (named)'
+28.5370 	EXP 	Number4: color = 'white (named)'
+28.5370 	EXP 	AFNE10.jpg: pos = array([ 0. ,  6.2])
+28.5370 	EXP 	AFSA13.jpg: pos = array([ 6.2,  0. ])
+28.5370 	EXP 	AFSA07.jpg: pos = array([ 0. , -6.2])
+28.5370 	EXP 	AFNE13.jpg: pos = array([-6.2,  0. ])
+28.5370 	EXP 	FixationPoint: autoDraw = True
+28.5374 	DATA 	Keypress: num_8
+28.9208 	DATA 	Keypress: num_9
+29.1592 	EXP 	AFNE10.jpg: autoDraw = True
+29.1592 	EXP 	AFSA13.jpg: autoDraw = True
+29.1592 	EXP 	AFSA07.jpg: autoDraw = True
+29.1592 	EXP 	AFNE13.jpg: autoDraw = True
+29.1596 	DATA 	Keypress: space
+29.5352 	DATA 	Keypress: k
+29.5852 	DATA 	Keypress: o
+29.9021 	DATA 	Keypress: o
+30.1523 	DATA 	Keypress: k
+30.4023 	EXP 	AFNE10.jpg: autoDraw = False
+30.4023 	EXP 	AFSA13.jpg: autoDraw = False
+30.4023 	EXP 	AFSA07.jpg: autoDraw = False
+30.4023 	EXP 	AFNE13.jpg: autoDraw = False
+30.8696 	DATA 	Keypress: m
+30.9697 	DATA 	Keypress: e
+30.9703 	DATA 	Keypress: w
+31.0047 	DATA 	Keypress: p
+31.2866 	DATA 	Keypress: r
+31.3371 	DATA 	Keypress: o
+31.7704 	DATA 	Keypress: o
+31.9824 	EXP 	Number1: autoDraw = True
+31.9824 	EXP 	Number2: autoDraw = True
+31.9824 	EXP 	Number3: autoDraw = True
+31.9824 	EXP 	Number4: autoDraw = True
+31.9824 	EXP 	AFNE10.jpg: pos = array([ 0.,  0.])
+31.9824 	EXP 	AFNE10.jpg: autoDraw = True
+31.9827 	DATA 	Keypress: o
+32.1374 	DATA 	Keypress: o
+32.2541 	DATA 	Keypress: w
+32.2874 	DATA 	Keypress: e
+32.3708 	DATA 	Keypress: o
+32.4542 	DATA 	Keypress: w
+32.4543 	DATA 	Keypress: q
+32.6544 	DATA 	Keypress: p
+32.7211 	DATA 	Keypress: l
+32.7878 	DATA 	Keypress: d
+32.9212 	DATA 	Keypress: s
+33.0047 	DATA 	Keypress: d
+33.1214 	DATA 	Keypress: a
+33.1224 	DATA 	Keypress: s
+33.3883 	DATA 	Keypress: 9
+33.5885 	DATA 	Keypress: 9
+33.7719 	DATA 	Keypress: 8
+34.3911 	DATA 	Keypress: num_8
+34.3916 	EXP 	New trial (rep=0, index=3): {'IPosition2': u'AFNE23.JPG', 'IPosition3': u'AFNE24.JPG', 'IPosition1': u'AFNE22.JPG', 'IPosition6': u'AFSA24.JPG', 'IPosition4': u'AFSA22.JPG', 'IPosition5': u'AFSA23.JPG'}
+34.4056 	EXP 	FixationPoint: autoDraw = False
+34.4056 	EXP 	AFNE10.jpg: autoDraw = False
+34.4056 	EXP 	AFSA13.jpg: autoDraw = False
+34.4056 	EXP 	AFSA07.jpg: autoDraw = False
+34.4056 	EXP 	AFNE13.jpg: autoDraw = False
+34.4056 	EXP 	AFNE10.jpg: autoDraw = False
+34.4056 	EXP 	Number1: autoDraw = False
+34.4056 	EXP 	Number2: autoDraw = False
+34.4056 	EXP 	Number3: autoDraw = False
+34.4056 	EXP 	Number4: autoDraw = False
+34.4056 	EXP 	FixationPoint: color = 'white (named)'
+34.4056 	EXP 	Number1: color = 'white (named)'
+34.4056 	EXP 	Number2: color = 'white (named)'
+34.4056 	EXP 	Number3: color = 'white (named)'
+34.4056 	EXP 	Number4: color = 'white (named)'
+34.4056 	EXP 	AFNE07.jpg: pos = array([ 0. ,  6.2])
+34.4056 	EXP 	AFSA11.jpg: pos = array([ 6.2,  0. ])
+34.4056 	EXP 	AFNE04.jpg: pos = array([ 0. , -6.2])
+34.4056 	EXP 	AFSA05.jpg: pos = array([-6.2,  0. ])
+34.4056 	EXP 	FixationPoint: autoDraw = True
+34.7895 	DATA 	Keypress: num_8
+34.9228 	EXP 	AFNE07.jpg: autoDraw = True
+34.9228 	EXP 	AFSA11.jpg: autoDraw = True
+34.9228 	EXP 	AFNE04.jpg: autoDraw = True
+34.9228 	EXP 	AFSA05.jpg: autoDraw = True
+36.4254 	EXP 	AFNE07.jpg: autoDraw = False
+36.4254 	EXP 	AFSA11.jpg: autoDraw = False
+36.4254 	EXP 	AFNE04.jpg: autoDraw = False
+36.4254 	EXP 	AFSA05.jpg: autoDraw = False
+37.9086 	EXP 	Number1: autoDraw = True
+37.9086 	EXP 	Number2: autoDraw = True
+37.9086 	EXP 	Number3: autoDraw = True
+37.9086 	EXP 	Number4: autoDraw = True
+37.9086 	EXP 	AFNE07.jpg: pos = array([ 0.,  0.])
+37.9086 	EXP 	AFNE07.jpg: autoDraw = True
+38.2591 	DATA 	Keypress: num_8
+38.2596 	EXP 	New trial (rep=0, index=4): {'IPosition2': u'AFSA21.JPG', 'IPosition3': u'AFNE23.JPG', 'IPosition1': u'AFNE21.JPG', 'IPosition6': u'AFSA25.JPG', 'IPosition4': u'AFNE25.JPG', 'IPosition5': u'AFSA23.JPG'}
+38.2755 	EXP 	FixationPoint: autoDraw = False
+38.2755 	EXP 	AFNE07.jpg: autoDraw = False
+38.2755 	EXP 	AFSA11.jpg: autoDraw = False
+38.2755 	EXP 	AFNE04.jpg: autoDraw = False
+38.2755 	EXP 	AFSA05.jpg: autoDraw = False
+38.2755 	EXP 	AFNE07.jpg: autoDraw = False
+38.2755 	EXP 	Number1: autoDraw = False
+38.2755 	EXP 	Number2: autoDraw = False
+38.2755 	EXP 	Number3: autoDraw = False
+38.2755 	EXP 	Number4: autoDraw = False
+38.2755 	EXP 	FixationPoint: color = 'white (named)'
+38.2755 	EXP 	Number1: color = 'white (named)'
+38.2755 	EXP 	Number2: color = 'white (named)'
+38.2755 	EXP 	Number3: color = 'white (named)'
+38.2755 	EXP 	Number4: color = 'white (named)'
+38.2755 	EXP 	AFSA10.jpg: pos = array([ 0. ,  6.2])
+38.2755 	EXP 	AFNE13.jpg: pos = array([ 6.2,  0. ])
+38.2755 	EXP 	AFSA05.jpg: pos = array([ 0. , -6.2])
+38.2755 	EXP 	AFNE05.jpg: pos = array([-6.2,  0. ])
+38.2755 	EXP 	FixationPoint: autoDraw = True
+38.7926 	EXP 	AFSA10.jpg: autoDraw = True
+38.7926 	EXP 	AFNE13.jpg: autoDraw = True
+38.7926 	EXP 	AFSA05.jpg: autoDraw = True
+38.7926 	EXP 	AFNE05.jpg: autoDraw = True
+39.6269 	DATA 	Keypress: num_9
+39.9938 	DATA 	Keypress: num_9
+40.2772 	EXP 	AFSA10.jpg: autoDraw = False
+40.2772 	EXP 	AFNE13.jpg: autoDraw = False
+40.2772 	EXP 	AFSA05.jpg: autoDraw = False
+40.2772 	EXP 	AFNE05.jpg: autoDraw = False
+41.7785 	EXP 	Number1: autoDraw = True
+41.7785 	EXP 	Number2: autoDraw = True
+41.7785 	EXP 	Number3: autoDraw = True
+41.7785 	EXP 	Number4: autoDraw = True
+41.7785 	EXP 	AFSA10.jpg: pos = array([ 0.,  0.])
+41.7785 	EXP 	AFSA10.jpg: autoDraw = True
+42.0622 	DATA 	Keypress: num_9
+42.5460 	DATA 	Keypress: num_9
+42.9129 	DATA 	Keypress: num_9
+43.1798 	DATA 	Keypress: num_8
+43.1804 	EXP 	New trial (rep=0, index=5): {'IPosition2': u'AMNE22.JPG', 'IPosition3': u'AMSA24.JPG', 'IPosition1': u'AMSA22.JPG', 'IPosition6': u'AMNE25.JPG', 'IPosition4': u'AMNE24.JPG', 'IPosition5': u'AMSA25.JPG'}
+43.1963 	EXP 	FixationPoint: autoDraw = False
+43.1963 	EXP 	AFSA10.jpg: autoDraw = False
+43.1963 	EXP 	AFNE13.jpg: autoDraw = False
+43.1963 	EXP 	AFSA05.jpg: autoDraw = False
+43.1963 	EXP 	AFNE05.jpg: autoDraw = False
+43.1963 	EXP 	AFSA10.jpg: autoDraw = False
+43.1963 	EXP 	Number1: autoDraw = False
+43.1963 	EXP 	Number2: autoDraw = False
+43.1963 	EXP 	Number3: autoDraw = False
+43.1963 	EXP 	Number4: autoDraw = False
+43.1963 	EXP 	FixationPoint: color = 'white (named)'
+43.1963 	EXP 	Number1: color = 'white (named)'
+43.1963 	EXP 	Number2: color = 'white (named)'
+43.1963 	EXP 	Number3: color = 'white (named)'
+43.1963 	EXP 	Number4: color = 'white (named)'
+43.1963 	EXP 	AFNE15.jpg: pos = array([ 0. ,  6.2])
+43.1963 	EXP 	AFSA11.jpg: pos = array([ 6.2,  0. ])
+43.1963 	EXP 	AFSA17.jpg: pos = array([ 0. , -6.2])
+43.1963 	EXP 	AFNE06.jpg: pos = array([-6.2,  0. ])
+43.1963 	EXP 	FixationPoint: autoDraw = True
+43.5636 	DATA 	Keypress: escape

@@ -1,0 +1,7 @@
+pyinstaller (package) 
+- cmd: pyinstaller.exe --onefile --icon=app.ico task.py
+see: https://mborgerson.com/creating-an-executable-from-a-python-script
+
+
+nsis (installer)
+- create zip file
