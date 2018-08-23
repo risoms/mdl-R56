@@ -1,0 +1,23 @@
+# Compiled source #
+###################
+
+
+# Packages #
+############
+*.7z
+*.dmg
+
+# Logs and databases #
+######################
+*.xls
+*.log
+*.sql
+*.sqlite
+*.csv
+
+# extensions #
+######################
+*.htaccess
+
+# directories #
+######################
