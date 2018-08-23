@@ -62,10 +62,6 @@ if True:
     analysis = process.data(config)
     
     #get raw data
-    #note #converted accuracy from [48,32,16] to 2,1,0
-    #triggers
-    ##accuracy: 1(16)=correct; 0(32)=incorrect; 0(48)=no response
-    ##condition:'male_neutral'='MN';'male_sad'='MS';'female_neutral'='FN';'female_sad':'FS'
     print('get raw data')
     df, path_, list_ = analysis.run()
     df = df.reset_index(drop=True)
@@ -107,13 +103,39 @@ if True:
         for w in [' '.join(col).strip() for col in by_emotion.columns.values]]
     by_emotion.to_excel(config['output'] + '\\by_emotion.xlsx', index_label='index')
 
-del list_, path_    
+print('variables')
+#--------------------------------------------------------------------------------variables and definitions
+if True:
+    ##add dtypes
+    var = (df.dtypes.to_frame(name='dtype').reset_index()).rename(columns={'index':'variable'})
+    ## add definitions
+    definitions = [v for v in config['definitions'].values()]
+    var['definitions'] = var.apply(lambda row: definitions[row.name], axis=1)
+    ##add occurance
+    occurance = [(df[col].value_counts().index.tolist()) for col in df.columns.values]
+    var['occurance'] = var.apply(lambda row: occurance[row.name], axis=1)
+    ##remove index and meaningless occurances
+    var.set_index('variable', inplace=True)
+    var['occurance']['rt'] = ['...']
+    var['occurance']['trial'] = ['...']
+    var['occurance']['up'] = ['AFSA02']
+    var['occurance']['down'] = ['AFSA02']
+    var['occurance']['left'] = ['AFSA02']
+    var['occurance']['right'] = ['AFSA02']
+    var['occurance']['probe'] = ['AFSA02']
+    var['occurance']['date'] = ['Timestamp("2017-10-12 11:34:00")']
+    var['occurance']['participant'] = ['03371']
+    var['occurance']['filename'] = ['203371']
+    var['occurance']['Trials.thisRepN'] = ['1']
+    var['occurance']['Trials.thisTrialN'] = ['1']
+    var['occurance']['Trials.thisN'] = ['1']
+    var['occurance']['Trials.thisIndex'] = ['1']
+    ##export
+    var.to_excel(config['output'] + '\\variables.xlsx', index_label='index')
+
+del list_, path_  
 
 print('testing')
 #--------------------------------------------------------------------------------testing
 #TODO! Test with subject 100028. delete this when done and just use df
-test = df[df['filename'] == str('100028')].reset_index(drop=True)
-
-
-variables = df.columns.to_frame(index=True)
-variables.to_excel(config['output'] + '\\variables.xlsx', index_label='index')
+#test = df[df['filename'] == str('100028')].reset_index(drop=True)

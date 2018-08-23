@@ -28,4 +28,32 @@ config={
     'path': os.path.abspath(os.path.join(os.getcwd(), '..\\','raw')),
     'root': os.path.abspath(os.path.join(os.getcwd(), '..\\')),
     'output': os.path.abspath(os.path.join(os.getcwd(), '..\\','output')),
+    'definitions': {
+        #------------------------file location
+        'participant': 'participant number',
+        'session': 'session number',
+        'filename': 'filename',
+        'duplicate': 'whether data had mismatched participant and filename number',
+        'date': 'date',
+        'condition': 'condition',
+        'probe_emotion': 'emotion of probe (always opposite of error_emotion)',
+        'error_emotion': 'incorrect emotion (always opposite of probe_emotion)',
+        'Trials.thisRepN': 'Trials.thisRepN',
+        'Trials.thisTrialN': 'Trials.thisTrialN',
+        'Trials.thisN': 'Trials.thisN',
+        'Trials.thisIndex': 'Trials.thisIndex',
+        'trial': 'task level trial number',
+        'Key_Resp.keys': 'participants keyboard response button',
+        'correct_answer': 'keyboard correct response',
+        'resp': 'participant response (from Key_resp.keys and converted to cardinal directions of stimuli))',
+        'c_resp': 'correct response (from correct_answer and converted to cardinal directions of stimuli)',
+        'acc': 'accuracy',
+        'rt': 'response time',
+        'code': 'code',
+        'up': 'stimuli positioned above fixation',
+        'right': 'stimuli positioned to the right of fixation',
+        'down': 'stimuli positioned below fixation',
+        'left': 'stimuli positioned to the left of fixation',
+        'probe': 'probe'
+    }
 }

@@ -118,17 +118,20 @@ class data:
         #-------------collapse columns
         ##group > Block > Block_Trial > Event
         cols=['TrialsF1.thisRepN','TrialsF2.thisRepN','TrialsM1.thisRepN','TrialsM2.thisRepN']
-        df['group'] = df[cols].sum(1)   
+        df['Trials.thisRepN'] = df[cols].sum(1)   
+        
         cols=['TrialsF1.thisTrialN','TrialsF2.thisTrialN','TrialsM1.thisTrialN','TrialsM2.thisTrialN']
-        df['block'] = df[cols].sum(1)       
+        df['Trials.thisTrialN'] = df[cols].sum(1)       
+        
         cols=['TrialsF1.thisN','TrialsF2.thisN','TrialsM1.thisN','TrialsM2.thisN']
-        df['group_trial'] = df[cols].sum(1)       
+        df['Trials.thisN'] = df[cols].sum(1)       
+        
         cols=['TrialsF1.thisIndex','TrialsF2.thisIndex','TrialsM1.thisIndex','TrialsM2.thisIndex']
-        df['id'] = df[cols].sum(1)
+        df['Trials.thisIndex'] = df[cols].sum(1)
 
         print('keep columns')    
         #-------------keep columns
-        df = df[['participant','filename','date','condition','group','block','group_trial','id','trial',
+        df = df[['participant','filename','date','condition','Trials.thisRepN','Trials.thisTrialN','Trials.thisN','Trials.thisIndex','trial',
                  'Key_Resp.keys','correct_answer','accuracy','Key_Resp.rt','code',
                  'Image0 _Position','Image1 _Position','Image2 _Position','Image3 _Position','Center_image']]
         
