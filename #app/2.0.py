@@ -14,9 +14,9 @@ ltask = ['RS-I','WF']
 #directory
 task_directory = r'C:\Users\mdl\Desktop\R56'
 winpython_path = task_directory+'\\x32\\python-2.7.10\\python.exe'
-drs_i = task_directory+'\\2.0\\tasks\\rsi\\rsi.py'
-dwf_fema = task_directory+'\\2.0\\tasks\\wf\\FEMA4ImagesEEG.py'
-dwf_mafe = task_directory+'\\2.0\\tasks\\wf\\MAFE4ImagesEEG.py'
+drs_i = task_directory+'tasks\\rsi\\rsi.py'
+dwf_fema = task_directory+'tasks\\wf\\FEMA4ImagesEEG.py'
+dwf_mafe = task_directory+'tasks\\wf\\MAFE4ImagesEEG.py'
 lwf = [dwf_fema,dwf_mafe]
 
 class R56(App):
