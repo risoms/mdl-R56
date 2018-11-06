@@ -1,0 +1,21 @@
+changes
+5.7 (2/8/17)
+- single block of 45 trials
+- truncated list of images
+
+5.6 (8/19)
+- enabled 5-digit subject numbers (up to 99999)
+
+5.3
+- have stimuli appear immediately after fixation
+- removed column "block" from stimlist_1 - _3; renamed blocknum
+- fix fixation timing issue (<2000ms)
+- sending trial variable to dataviewer TrialVar
+
+5.4
+- replaced images with Kormac normalized images
+- changed all grey screens to 110,110,110
+
+5.5
+- fixed timing issue
+- new variables named IAPSOffset, IAPSOnset
