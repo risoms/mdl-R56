@@ -1,0 +1,33 @@
+5.0 (8/19)
+- enabled 5-digit subject numbers (up to 99999)
+
+4.0 (4/6)
+- added fixation window (500msec) for each trial
+-- task continues once window is met (different from pupil dilation, which waits for 2000msec)
+-- if window is not met in 2000, task goes into drift correct
+
+3.0 (2/28)
+- fix timing issue: changed recorded offset for facestim to actual offset, instead of dotloc onset
+i.e. Dotlockoffet to FaceStimOffset
+and DotLoc.OnsetTime to FaceStim.OffsetTime
+
+- added cresp, resp, acc variables to eyetracker data
+
+- enabled keyboard for use during E-Run test
+
+- logging (facestim, dotloc)
+/action delay
+/action time
+/duration
+/duration error
+/start time
+/finish time
+/offset delay
+/offset time
+/onset delay
+/onset time
+
+2.0 (1/20)
+- made images greyscale (1/20)
+- allow participant to control task (gamepad)
+- sending trial variable to dataviewer TrialVar

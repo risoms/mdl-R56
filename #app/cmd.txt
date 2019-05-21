@@ -1,9 +1,0 @@
-https://kivy.org/docs/guide/packaging-windows.html
-use only if rebuilding spec file: python -m PyInstaller -F --name gui --icon app.ico 2.0.py
-use: python -m PyInstaller gui.spec
-
-
-
-
-for solution
-http://stackoverflow.com/questions/38390789/i-always-get-this-error-when-creating-a-kivy-app/38485851#38485851

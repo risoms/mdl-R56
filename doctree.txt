@@ -1,0 +1,116 @@
+mdl-R56/
+├── docs/
+│   ├── Dot Probe - Methods.docx
+│   ├── Pupil dilation - Methods.docx
+│   └── triggers.json
+├── doctree.txt
+├── HOWTO.md
+├── LICENSE
+├── other/
+│   ├── .DS_Store
+│   └── backup/
+├── README.md
+├── tasks/
+│   ├── pst/
+│   │   ├── dotprobe/
+│   │   │   ├── 5.0/
+│   │   │   │   ├── beep-7.wav
+│   │   │   │   ├── changes.txt
+│   │   │   │   ├── r56-dot.ebs2
+│   │   │   │   ├── r56-dot.es2
+│   │   │   │   ├── stim/
+│   │   │   │   └── stim.zip
+│   │   │   └── 5.1/
+│   │   └── pupil_dilation/
+│   │       ├── 5.7/
+│   │       │   ├── advisor.xsl
+│   │       │   ├── beep-7.wav
+│   │       │   ├── changes.txt
+│   │       │   ├── py/
+│   │       │   │   └── list.py
+│   │       │   ├── r56-ppi.ebs2
+│   │       │   ├── r56-ppi.es2
+│   │       │   ├── r56-ppi.wndpos
+│   │       │   └── stim/
+│   │       └── 5.8/
+│   │           ├── advisor.xsl
+│   │           ├── beep-7.wav
+│   │           ├── changes.txt
+│   │           ├── fixation calculation.txt
+│   │           ├── py/
+│   │           │   └── list.py
+│   │           ├── r56-ppi.ebs2
+│   │           ├── r56-ppi.es2
+│   │           ├── r56-ppi.wndpos
+│   │           └── stim/
+│   └── python/
+│       ├── _dfat/
+│       │   ├── dfat.bat
+│       │   ├── dfat.py
+│       │   ├── inpout32.dll
+│       │   └── instructions/
+│       │       ├── png.zip
+│       │       └── wav.zip
+│       ├── _rsi/
+│       │   ├── inpout32.dll
+│       │   ├── instructions/
+│       │   │   ├── .DS_Store
+│       │   │   ├── even.png
+│       │   │   ├── png.zip
+│       │   │   └── wav.zip
+│       │   ├── rsi.bat
+│       │   └── rsi.py
+│       ├── _wf/
+│       │   ├── changes.py
+│       │   ├── EmotionFeConditionsFile.csv
+│       │   ├── EmotionMaConditionsFile.csv
+│       │   ├── FEMA4ImagesEEG.bat
+│       │   ├── FEMA4ImagesEEG.py
+│       │   ├── FemalePracticeFile.csv
+│       │   ├── inpout32.dll
+│       │   ├── MAFE4ImagesEEG.bat
+│       │   ├── MAFE4ImagesEEG.py
+│       │   ├── MalePracticeFile.csv
+│       │   └── stim.zip
+│       ├── app/
+│       │   ├── 1.0.py
+│       │   ├── 2.0.py
+│       │   ├── app.ico
+│       │   ├── build/
+│       │   ├── cmd.txt
+│       │   ├── dist/
+│       │   │   ├── gui/
+│       │   │   └── gui.exe
+│       │   ├── docs/
+│       │   │   ├── app.ico
+│       │   │   ├── commands.txt
+│       │   │   └── script.nsi
+│       │   ├── gui.spec
+│       │   └── gui_backup.spec
+│       └── manual/
+│           ├── 1-rsi.lnk
+│           ├── 2-dfat.lnk
+│           ├── 3-FEMA.lnk
+│           ├── 3-MAFE.lnk
+│           ├── 4-rsii.lnk
+│           ├── 5-smi.bat
+│           ├── 6-rsiii.lnk
+│           └── 7-questionnaire.bat
+├── tools/
+│   ├── .DS_Store
+│   ├── actigraph_analysis/
+│   │   ├── .DS_Store
+│   │   ├── actigraph.py
+│   │   ├── new/
+│   │   ├── notes/
+│   │   │   ├── Actigraphy Report -- 100126.docx
+│   │   │   ├── chrome_0ab.csv
+│   │   │   ├── nparACT.pdf
+│   │   │   ├── nparACT.R
+│   │   │   ├── R56ActiwareDatabase.AW5
+│   │   │   └── R56ActiwareDatabase.AW5bak
+│   │   └── old/
+│   ├── doctree.py
+│   └── rename/
+│       ├── practice_instructions/
+│       └── rename.py

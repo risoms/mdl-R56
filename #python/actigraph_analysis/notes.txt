@@ -1,8 +1,0 @@
-changes
-- actigraph-old.py: backup of original code
-- actigraph.py: following changes
-1) If not missing (NaN) -- Don't edit the data
-2) If missing < 11 -- Replace missing with zero
-3) Else
-    3a) If missing values all at the end - remove values
-    3b) If missing values at the end and beginning - replace missing with zero
