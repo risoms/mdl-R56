@@ -9,7 +9,7 @@
 mdl-R56: Contribution of Genome-Wide Variation to Cognitive Vulnerability to Depression
 ---------------------------------------------------------------------------------------
 
-This library was created at [the Institute for Mental Health Research](http://mdl.psy.utexas.edu/), at [the University of Texas at Austin](http://www.utexas.edu/) by [Semeon Risom](https://semeon.io), and was developed from funding of NIMH grant [1R56MH108650-01A1](https://projectreporter.nih.gov/project_info_description.cfm?aid=9325815.
+This library was created at [the Institute for Mental Health Research](http://mdl.psy.utexas.edu/), at [the University of Texas at Austin](http://www.utexas.edu/) by [Semeon Risom](https://semeon.io), and was developed from funding of NIMH grant [1R56MH108650-01A1](https://projectreporter.nih.gov/project_info_description.cfm?aid=9325815).
 
 Directory
 ---------
